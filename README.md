@@ -22,6 +22,8 @@
 
 > sudo apt-get install python-nautilus
 
+> sudo apt install python-nautilus python3-gi
+
 
 
 > sudo apt install exe-thumbnailer nautilus-sendto nautilus-share easytag-nautilus nautilus-admin nautilus-font-manager nautilus-actions nautilus-gtkhash nautilus-ideviceinfo nautilus-image-converter ooo-thumbnailer p7zip-full nautilus-dropbox
@@ -52,6 +54,8 @@
 
 > sudo snap install htop
 
+> sudo apt install mc
+
 https://extensions.gnome.org/
 
 https://extensions.gnome.org/extension/1036/extensions/
@@ -66,7 +70,7 @@ https://extensions.gnome.org/extension/307/dash-to-dock/
 
 RESTART
 
-https://extensions.gnome.org/extension/1064/system-monitor/
+https://extensions.gnome.org/extension/120/system-monitor/
 
 https://extensions.gnome.org/extension/1465/desktop-icons/
 
@@ -75,6 +79,9 @@ https://extensions.gnome.org/extension/1034/services-systemd/
 https://extensions.gnome.org/extension/2159/application-view-columns/
 
 https://extensions.gnome.org/extension/19/user-themes/
+
+https://extensions.gnome.org/extension/2872/activities-icons/
+
 
 
 
@@ -100,4 +107,17 @@ https://www.pling.com/p/1228228/
 
 
 https://extensions.gnome.org/extension/723/pixel-saver/
+
+
+
+> sudo apt install git
+
+
+
+> sudo gedit /usr/share/X11/xkb/rules/evdev.xml
+
+<shortDescription>en</shortDescription>
+<shortDescription>🇺🇸️</shortDescription>
+<shortDescription>ru</shortDescription>
+<shortDescription>🇷🇺️</shortDescription>
 
