@@ -35,15 +35,27 @@
 > sudo apt install gir1.2-gtop-2.0 gir1.2-nm-1.0 gir1.2-clutter-1.0
 
 https://extensions.gnome.org/
+
 https://extensions.gnome.org/extension/1036/extensions/
+
 https://extensions.gnome.org/extension/1319/gsconnect/
+
 https://extensions.gnome.org/extension/750/openweather/
+
 https://extensions.gnome.org/extension/517/caffeine/
+
 https://extensions.gnome.org/extension/307/dash-to-dock/
+
 RESTART
+
 https://extensions.gnome.org/extension/1064/system-monitor/
+
 https://extensions.gnome.org/extension/1465/desktop-icons/
+
 https://extensions.gnome.org/extension/1034/services-systemd/
+
+https://extensions.gnome.org/extension/19/user-themes/
+
 
 > sudo apt install lm-sensors hddtemp psensor
 > sudo sensors-detect
