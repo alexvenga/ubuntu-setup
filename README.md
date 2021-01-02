@@ -116,8 +116,10 @@ https://extensions.gnome.org/extension/723/pixel-saver/
 
 > sudo gedit /usr/share/X11/xkb/rules/evdev.xml
 
-<shortDescription>en</shortDescription>
+'<shortDescription>en</shortDescription>'
 <shortDescription>🇺🇸️</shortDescription>
 <shortDescription>ru</shortDescription>
 <shortDescription>🇷🇺️</shortDescription>
+
+перезагрузите оболочку Gnome: Alt+F2, введите латинскую r и Enter.
 
