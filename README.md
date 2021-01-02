@@ -130,3 +130,6 @@ https://extensions.gnome.org/extension/723/pixel-saver/
 
 https://docs.docker.com/engine/install/ubuntu/
 
+sudo apt install openssl php-common php-curl php-json php-mbstring php-mysql php-xml php-zip
+
+
