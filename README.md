@@ -95,7 +95,7 @@ https://extensions.gnome.org/extension/1145/sensory-perception/
 
 
 
-PHPStorm
+PHPStorm, DataGrip
 https://forum.losper.net/topic/90-aktivatory-jetbrains-agent-dlya-ide-ot-jetbrains/?tab=comments#comment-238
 
 
