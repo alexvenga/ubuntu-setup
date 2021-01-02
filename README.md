@@ -126,3 +126,7 @@ https://extensions.gnome.org/extension/723/pixel-saver/
 
 перезагрузите оболочку Gnome: Alt+F2, введите латинскую r и Enter.
 
+
+
+https://docs.docker.com/engine/install/ubuntu/
+
