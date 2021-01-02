@@ -40,3 +40,6 @@ https://extensions.gnome.org/extension/1319/gsconnect/
 https://extensions.gnome.org/extension/750/openweather/
 https://extensions.gnome.org/extension/517/caffeine/
 https://extensions.gnome.org/extension/723/pixel-saver/
+https://extensions.gnome.org/extension/307/dash-to-dock/
+RESTART
+
