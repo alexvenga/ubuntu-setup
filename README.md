@@ -144,5 +144,24 @@ https://docs.docker.com/engine/install/ubuntu/
 
 create symlinks for webserver
 
+> sudo mysql
+
+`GRANT ALL PRIVILEGES ON *.* TO 'alex'@'localhost' IDENTIFIED BY 'Qwerty100$' WITH GRANT OPTION;`
+
+`FLUSH PRIVILEGES;`
+
+`use mysql;`
+
+`update user set plugin='' where User='root';`
+
+`flush privileges;`
+
+`exit`
+
+
+
+
+
+
 
 
