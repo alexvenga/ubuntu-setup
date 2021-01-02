@@ -146,7 +146,9 @@ create symlinks for webserver
 
 > sudo mysql
 
-`GRANT ALL PRIVILEGES ON *.* TO 'alex'@'localhost' IDENTIFIED BY 'Qwerty100$' WITH GRANT OPTION;`
+`GRANT ALL ON *.* TO 'alex'@'localhost' IDENTIFIED BY 'Qwerty100$' WITH GRANT OPTION;`
+
+`GRANT ALL PRIVILEGES ON *.* TO 'alex'@'localhost';`
 
 `FLUSH PRIVILEGES;`
 
