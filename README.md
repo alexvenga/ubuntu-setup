@@ -147,10 +147,15 @@ https://docs.docker.com/engine/install/ubuntu/
 create symlinks for webserver
 
 /etc/php/7.0/fpm/pool.d/www.conf
+
 owner = alex
+
 group = alex
+
 listen.owner = alex
+
 listen.group = alex
+
 
 > sudo mysql
 
