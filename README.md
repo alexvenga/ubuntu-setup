@@ -91,7 +91,11 @@ https://extensions.gnome.org/extension/2872/activities-icons/
 
 https://extensions.gnome.org/extension/1145/sensory-perception/
 
+> sudo add-apt-repository ppa:danielrichter2007/grub-customizer
 
+> sudo apt-get update
+
+> sudo apt-get install grub-customizer
 
 PHPStorm, DataGrip
 https://forum.losper.net/topic/90-aktivatory-jetbrains-agent-dlya-ide-ot-jetbrains/?tab=comments#comment-238
