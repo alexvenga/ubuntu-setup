@@ -114,6 +114,10 @@ https://extensions.gnome.org/extension/723/pixel-saver/
 
 > sudo apt install git
 
+> git config --global user.email "bubnov.alexey@gmail.com"
+
+> git config --global user.name "Alex Venga"
+
 
 
 > sudo gedit /usr/share/X11/xkb/rules/evdev.xml
