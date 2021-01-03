@@ -32,7 +32,7 @@
 
 
  
-> sudo apt install ubuntu-restricted-extras libavcodec-extra libdvd-pkg
+> sudo apt install libavcodec-extra58  ubuntu-restricted-extras libavcodec-extra libdvd-pkg
 
 > sudo apt install adobe-flashplugin
 
