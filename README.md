@@ -183,6 +183,8 @@ listen.group = alex
 
 > rm composer-setup.php
 
+https://www.dmosk.ru/miniinstruktions.php?mini=bind-primary
+
 
 
 
