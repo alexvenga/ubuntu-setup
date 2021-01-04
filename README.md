@@ -188,8 +188,13 @@ https://habr.com/ru/post/85067/
 https://www.8host.com/blog/nastrojka-bind-kak-keshiruyushhego-ili-perenapravlyayushhego-dns-servera-v-ubuntu-14-04/
 
 
+> dpkg --get-selections | grep node
 
+> sudo apt purge nodejs
 
+> sudo apt install nodejs
+
+> sudo apt install npm
 
 
 
