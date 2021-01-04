@@ -183,8 +183,9 @@ listen.group = alex
 
 > rm composer-setup.php
 
-https://www.dmosk.ru/miniinstruktions.php?mini=bind-primary
+https://habr.com/ru/post/85067/
 
+https://www.8host.com/blog/nastrojka-bind-kak-keshiruyushhego-ili-perenapravlyayushhego-dns-servera-v-ubuntu-14-04/
 
 
 
