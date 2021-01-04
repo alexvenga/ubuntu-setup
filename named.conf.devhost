@@ -1,0 +1,7 @@
+
+zone "devhost" {
+	type master;
+	file "/etc/bind/db.devhost";
+};
+
+
