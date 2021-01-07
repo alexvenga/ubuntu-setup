@@ -16,7 +16,7 @@
 
 > sudo apt install --reinstall intel-microcode
 
-
+> sudo apt-get install dkms broadcom-sta-dkms broadcom-sta-common
 
 > sudo apt-get install python3-nautilus
 
