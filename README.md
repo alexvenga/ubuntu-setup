@@ -68,8 +68,6 @@ RESTART
 
 https://extensions.gnome.org/extension/120/system-monitor/
 
-https://extensions.gnome.org/extension/1465/desktop-icons/
-
 https://extensions.gnome.org/extension/1034/services-systemd/
 
 https://extensions.gnome.org/extension/2159/application-view-columns/
