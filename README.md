@@ -24,7 +24,7 @@
 
 
 
-> sudo apt install exe-thumbnailer nautilus-sendto nautilus-share easytag-nautilus nautilus-admin nautilus-font-manager nautilus-actions nautilus-gtkhash nautilus-ideviceinfo nautilus-image-converter ooo-thumbnailer p7zip-full nautilus-dropbox
+> sudo apt install exe-thumbnailer nautilus-sendto nautilus-share nautilus-admin nautilus-font-manager nautilus-ideviceinfo ooo-thumbnailer p7zip-full
 
 > nautilus -q
 
