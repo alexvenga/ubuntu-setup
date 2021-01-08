@@ -6,17 +6,15 @@
 
 > sudo apt update
 
+> sudo apt-get install dkms broadcom-sta-dkms broadcom-sta-common
+
 > sudo apt upgrade
 
 > sudo apt update && sudo apt dist-upgrade
 
-
-
 > sudo dpkg --add-architecture i386
 
 > sudo apt install --reinstall intel-microcode
-
-> sudo apt-get install dkms broadcom-sta-dkms broadcom-sta-common
 
 > sudo apt-get install python3-nautilus
 
