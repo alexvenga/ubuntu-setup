@@ -209,5 +209,8 @@ https://www.8host.com/blog/nastrojka-bind-kak-keshiruyushhego-ili-perenapravlyay
 
 Google Chrome > Settings > Apearance > Default theme
 
+> sudo snap install vlc
+
+> sudo apt install rar unrar p7zip-full p7zip-rar
 
 
