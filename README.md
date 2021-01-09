@@ -207,5 +207,7 @@ https://www.8host.com/blog/nastrojka-bind-kak-keshiruyushhego-ili-perenapravlyay
 > sudo apt install npm
 
 
+Google Chrome > Settings > Apearance > Default theme
+
 
 
