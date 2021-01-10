@@ -22,6 +22,8 @@
 
 > sudo apt install python-nautilus python3-gi
 
+> sudo apt-get install python3-gi python3-nautilus python3-pip
+
 
 
 > sudo apt install exe-thumbnailer nautilus-sendto nautilus-share nautilus-admin nautilus-font-manager nautilus-ideviceinfo ooo-thumbnailer p7zip-full
