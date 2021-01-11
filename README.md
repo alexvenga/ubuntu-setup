@@ -216,4 +216,6 @@ Google Chrome > Settings > Apearance > Default theme
 
 > sudo apt install rar unrar p7zip-full p7zip-rar
 
+> apt install flameshot
+
 
